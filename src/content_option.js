@@ -84,21 +84,23 @@ const services = [
 const dataportfolio = [
   {
     img: 'https://picsum.photos/400/?grayscale',
-    description:
-      'The wisdom of life consists in the elimination of non-essentials.',
-    link: '#'
+    description: 'CINEMA',
+    link: 'https://cinema-one-zeta.vercel.app/'
   },
   {
     img: 'https://picsum.photos/400/?grayscale',
-    description:
-      'The wisdom of life consists in the elimination of non-essentials.',
-    link: '#'
+    description: 'NORALIGHT',
+    link: 'https://github.com/dilshodbek0515/react-n8'
   },
   {
     img: 'https://picsum.photos/400/?grayscale',
-    description:
-      'The wisdom of life consists in the elimination of non-essentials.',
-    link: '#'
+    description: 'ISHTIXON TTB',
+    link: 'https://github.com/dilshodbek0515/ishtixon-ttb'
+  },
+  {
+    img: 'https://picsum.photos/400/?grayscale',
+    description: 'WEATHER',
+    link: 'https://github.com/dilshodbek0515/weather'
   }
 ]
 
