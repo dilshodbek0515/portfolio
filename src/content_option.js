@@ -42,24 +42,16 @@ const worktimeline = [
 
 const skills = [
   {
-    name: 'Python',
-    value: 90
+    name: 'Html, Css, Scss, Tailwind, Bootstrap'
   },
   {
-    name: 'Djano',
-    value: 85
+    name: 'Java Script , Type Script '
   },
   {
-    name: 'Javascript',
-    value: 80
+    name: 'React JS , Next JS '
   },
   {
-    name: 'React',
-    value: 60
-  },
-  {
-    name: 'Jquery',
-    value: 85
+    name: 'Git hub , Mui , Redux '
   }
 ]
 
@@ -105,10 +97,10 @@ const dataportfolio = [
 ]
 
 const contactConfig = {
-  YOUR_EMAIL: 'name@domain.com',
-  YOUR_FONE: '(555)123-4567',
+  YOUR_EMAIL: ' dilshodx516@gmail.com',
+  YOUR_FONE: '+998 97 579 05 15',
   description:
-    'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ',
+    'If you have any suggestions or ideas, feel free to contact me. 👉👉',
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
   YOUR_SERVICE_ID: 'service_id',
